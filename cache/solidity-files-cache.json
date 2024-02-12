@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\user\\StudioProjects\\crytpo-currency-project\\my-app\\src\\contracts\\SendValueToAddress.sol": {
+      "lastModificationDate": 1707567706674,
+      "contentHash": "027686f8cf5739b2021fa0c8731fb8a3",
+      "sourceName": "src/contracts/SendValueToAddress.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "SendValueToAddress"
+      ]
+    }
+  }
+}
