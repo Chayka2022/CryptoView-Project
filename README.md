@@ -7,7 +7,7 @@ In order to run this application:
 1. copy github repository in visual studio code,
 2. open terminal and run in project folder
     ### `npm install` or `npm install --force` 
-3. ### `npm run`
+3. ### `npm start`
 (Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.)
 
